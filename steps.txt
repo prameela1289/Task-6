@@ -1,0 +1,10 @@
+
+
+
+
+1. Visit the website: https://www.heroku.com
+2. Create an account in Heroku by signing in.
+3. Provide the necessary information like name, email id etc.
+4. Verify the email id with the code sent.
+5. Set a new password.
+6. Login to the account with a new password.
